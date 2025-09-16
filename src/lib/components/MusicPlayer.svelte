@@ -248,7 +248,7 @@
     <div class="flex items-center space-x-2">
       <div class="relative">
         <button 
-          class="custom-select appearance-none bg-white/10 backdrop-blur-sm border border-white/20 text-white py-1 px-2 pr-8 rounded leading-tight focus:outline-none focus:bg-white/20 focus:border-white transition-all duration-300 w-24 text-left"
+          class="custom-select w-40 appearance-none bg-white/10 backdrop-blur-sm border border-white/20 text-white py-1 px-2 pr-8 rounded leading-tight focus:outline-none focus:bg-white/20 focus:border-white transition-all duration-300  text-left"
           on:click={toggleGenreDropdown}
         >
           {selectedGenre}
@@ -258,10 +258,10 @@
         </div>
         
         {#if isGenreDropdownOpen}
-          <div class="absolute top-full left-0 mt-1 w-24 bg-white/10 backdrop-blur-md border border-white/20 rounded-lg shadow-lg z-50 overflow-hidden">
+          <div class="absolute top-full left-0 mt-1 w-40 bg-white/10 backdrop-blur-md border border-white/20 rounded-lg shadow-lg z-50 overflow-hidden">
             {#each genres as genre}
               <button
-  class={`w-full text-left px-3 py-2 text-white hover:bg-white/20 transition-colors duration-200 focus:outline-none focus:bg-white/20 ${genre === selectedGenre ? 'bg-white/15 font-semibold' : ''}`}
+  class={`w-40 text-left px-3 py-2 text-white hover:bg-white/20 transition-colors duration-200 focus:outline-none focus:bg-white/20 ${genre === selectedGenre ? 'bg-white/15 font-semibold' : ''}`}
   on:click={() => changeGenre(genre)}
 >
 
