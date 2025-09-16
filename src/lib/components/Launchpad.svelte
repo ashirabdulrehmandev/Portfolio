@@ -19,7 +19,6 @@
     { id: 'terminal', name: 'Terminal', icon: terminal },
     { id: 'safari', name: 'Safari', icon: safari },
     { id: 'projects', name: 'Projects', icon: projects },
-    // { id: 'blog', name: 'Blog', icon: blog },
     { id: 'github', name: 'Github', icon: github },
   ];
 
