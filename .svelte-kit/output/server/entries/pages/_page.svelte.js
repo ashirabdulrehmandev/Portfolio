@@ -395,8 +395,8 @@ const initialProjects = [
     name: "macOS Themed Portfolio",
     icon: "svelte",
     shortDescription: "An interactive portfolio website inspired by the macOS interface, built with SvelteKit, TailwindCSS, and TypeScript.",
-    githubUrl: "https://github.com/ashirabdulrehmandev/macOS-Themed-Portfolio",
-    readmeUrl: "https://raw.githubusercontent.com/ashirabdulrehman/macOS-Themed-Portfolio/main/README.md",
+    githubUrl: "https://github.com/ashirabdulrehmandev/Portfolio",
+    readmeUrl: "https://raw.githubusercontent.com/ashirabdulrehmandev/Portfolio/refs/heads/main/README.md",
     technologies: ["Svelte", "TypeScript", "TailwindCSS"],
     type: "application"
   },
