@@ -5,7 +5,7 @@
     import Safari from "./Safari.svelte";
     import Photos from "./Photos.svelte";
     import Projects from "./Projects.svelte";
-    import Blog from "./Blog.svelte";
+    // import Blog from "./Blog.svelte";
   
     export let window: wType;
   

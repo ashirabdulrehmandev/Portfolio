@@ -1,0 +1,310 @@
+{
+  ".svelte-kit/generated/server/internal.js": {
+    "file": "internal.js",
+    "name": "internal",
+    "src": ".svelte-kit/generated/server/internal.js",
+    "isEntry": true,
+    "imports": [
+      "_internal.js",
+      "_environment.js"
+    ]
+  },
+  "_environment.js": {
+    "file": "chunks/environment.js",
+    "name": "environment"
+  },
+  "_exports.js": {
+    "file": "chunks/exports.js",
+    "name": "exports"
+  },
+  "_index.js": {
+    "file": "chunks/index.js",
+    "name": "index",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_internal.js": {
+    "file": "chunks/internal.js",
+    "name": "internal",
+    "imports": [
+      "_ssr.js",
+      "_ssr2.js",
+      "_environment.js"
+    ]
+  },
+  "_shared.js": {
+    "file": "chunks/shared.js",
+    "name": "shared",
+    "imports": [
+      "_utils.js"
+    ]
+  },
+  "_ssr.js": {
+    "file": "chunks/ssr.js",
+    "name": "ssr"
+  },
+  "_ssr2.js": {
+    "file": "chunks/ssr2.js",
+    "name": "ssr"
+  },
+  "_utils.js": {
+    "file": "chunks/utils.js",
+    "name": "utils"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/app/server/remote/index.js": {
+    "file": "remote-entry.js",
+    "name": "remote-entry",
+    "src": "node_modules/@sveltejs/kit/src/runtime/app/server/remote/index.js",
+    "isEntry": true,
+    "imports": [
+      "_shared.js",
+      "_environment.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/svelte-4/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "name": "entries/fallbacks/error.svelte",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/svelte-4/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_exports.js",
+      "_utils.js",
+      "_ssr2.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+    "file": "index.js",
+    "name": "index",
+    "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js",
+    "isEntry": true,
+    "imports": [
+      "_shared.js",
+      "_environment.js",
+      "_exports.js",
+      "_utils.js",
+      "_index.js",
+      "_internal.js"
+    ]
+  },
+  "src/lib/assets/icons/blog.png": {
+    "file": "_app/immutable/assets/blog._jGFOdL8.png",
+    "src": "src/lib/assets/icons/blog.png"
+  },
+  "src/lib/assets/icons/clave.png": {
+    "file": "_app/immutable/assets/clave.D89drx8e.png",
+    "src": "src/lib/assets/icons/clave.png"
+  },
+  "src/lib/assets/icons/github.png": {
+    "file": "_app/immutable/assets/github.CYmlC3Ue.png",
+    "src": "src/lib/assets/icons/github.png"
+  },
+  "src/lib/assets/icons/launchpad.png": {
+    "file": "_app/immutable/assets/launchpad.CgD6-Nla.png",
+    "src": "src/lib/assets/icons/launchpad.png"
+  },
+  "src/lib/assets/icons/photos.avif": {
+    "file": "_app/immutable/assets/photos.8hGOpb6v.avif",
+    "src": "src/lib/assets/icons/photos.avif"
+  },
+  "src/lib/assets/icons/projects.png": {
+    "file": "_app/immutable/assets/projects.CAEO0KFT.png",
+    "src": "src/lib/assets/icons/projects.png"
+  },
+  "src/lib/assets/icons/safari.png": {
+    "file": "_app/immutable/assets/safari.BEygW2Sh.png",
+    "src": "src/lib/assets/icons/safari.png"
+  },
+  "src/lib/assets/icons/terminal.avif": {
+    "file": "_app/immutable/assets/terminal.0clKkOCv.avif",
+    "src": "src/lib/assets/icons/terminal.avif"
+  },
+  "src/lib/assets/photos/A walk to remember.jpeg": {
+    "file": "_app/immutable/assets/A walk to remember.DmxIb_Yp.jpeg",
+    "src": "src/lib/assets/photos/A walk to remember.jpeg"
+  },
+  "src/lib/assets/photos/Banaras .jpeg": {
+    "file": "_app/immutable/assets/Banaras .D6YbZ_U9.jpeg",
+    "src": "src/lib/assets/photos/Banaras .jpeg"
+  },
+  "src/lib/assets/photos/Black and White.jpeg": {
+    "file": "_app/immutable/assets/Black and White.CqysbirF.jpeg",
+    "src": "src/lib/assets/photos/Black and White.jpeg"
+  },
+  "src/lib/assets/photos/Candy Lens.jpeg": {
+    "file": "_app/immutable/assets/Candy Lens.CRrSRx5S.jpeg",
+    "src": "src/lib/assets/photos/Candy Lens.jpeg"
+  },
+  "src/lib/assets/photos/Church.jpeg": {
+    "file": "_app/immutable/assets/Church.P3u_M6nM.jpeg",
+    "src": "src/lib/assets/photos/Church.jpeg"
+  },
+  "src/lib/assets/photos/Dual Tone.jpeg": {
+    "file": "_app/immutable/assets/Dual Tone.BcLo0V8u.jpeg",
+    "src": "src/lib/assets/photos/Dual Tone.jpeg"
+  },
+  "src/lib/assets/photos/Faith.jpeg": {
+    "file": "_app/immutable/assets/Faith.g5N1Xd3M.jpeg",
+    "src": "src/lib/assets/photos/Faith.jpeg"
+  },
+  "src/lib/assets/photos/Golden.jpeg": {
+    "file": "_app/immutable/assets/Golden.B3f4CHUm.jpeg",
+    "src": "src/lib/assets/photos/Golden.jpeg"
+  },
+  "src/lib/assets/photos/India.jpeg": {
+    "file": "_app/immutable/assets/India.DgQWBc2S.jpeg",
+    "src": "src/lib/assets/photos/India.jpeg"
+  },
+  "src/lib/assets/photos/Mysore Palace.jpeg": {
+    "file": "_app/immutable/assets/Mysore Palace.CxrpT12d.jpeg",
+    "src": "src/lib/assets/photos/Mysore Palace.jpeg"
+  },
+  "src/lib/assets/photos/Palace.jpeg": {
+    "file": "_app/immutable/assets/Palace.DZ3y6-1p.jpeg",
+    "src": "src/lib/assets/photos/Palace.jpeg"
+  },
+  "src/lib/assets/photos/Rain Drops.jpg": {
+    "file": "_app/immutable/assets/Rain Drops.ChheUtCX.jpg",
+    "src": "src/lib/assets/photos/Rain Drops.jpg"
+  },
+  "src/lib/assets/photos/St. Philomena's Cathedral.jpeg": {
+    "file": "_app/immutable/assets/St. Philomena's Cathedral.DZ-Kr7xj.jpeg",
+    "src": "src/lib/assets/photos/St. Philomena's Cathedral.jpeg"
+  },
+  "src/lib/assets/photos/Sun.jpeg": {
+    "file": "_app/immutable/assets/Sun.CIpXb_FJ.jpeg",
+    "src": "src/lib/assets/photos/Sun.jpeg"
+  },
+  "src/lib/assets/photos/bird.jpeg": {
+    "file": "_app/immutable/assets/bird.Ci9FzVvd.jpeg",
+    "src": "src/lib/assets/photos/bird.jpeg"
+  },
+  "src/lib/assets/photos/camel.jpeg": {
+    "file": "_app/immutable/assets/camel.DPkGHtXn.jpeg",
+    "src": "src/lib/assets/photos/camel.jpeg"
+  },
+  "src/lib/assets/photos/dope.jpeg": {
+    "file": "_app/immutable/assets/dope.046hn1Cd.jpeg",
+    "src": "src/lib/assets/photos/dope.jpeg"
+  },
+  "src/lib/assets/photos/eysdontlie.jpg": {
+    "file": "_app/immutable/assets/eysdontlie.Dx85Smro.jpg",
+    "src": "src/lib/assets/photos/eysdontlie.jpg"
+  },
+  "src/lib/assets/photos/flat.jpeg": {
+    "file": "_app/immutable/assets/flat.B1vdzpAs.jpeg",
+    "src": "src/lib/assets/photos/flat.jpeg"
+  },
+  "src/lib/assets/photos/iconic reserved forest moment.jpg": {
+    "file": "_app/immutable/assets/iconic reserved forest moment.CdF8ArQB.jpg",
+    "src": "src/lib/assets/photos/iconic reserved forest moment.jpg"
+  },
+  "src/lib/assets/photos/insect macro photo.jpg": {
+    "file": "_app/immutable/assets/insect macro photo.DSIAsfWi.jpg",
+    "src": "src/lib/assets/photos/insect macro photo.jpg"
+  },
+  "src/lib/assets/photos/leaf.jpeg": {
+    "file": "_app/immutable/assets/leaf.COJtXbiI.jpeg",
+    "src": "src/lib/assets/photos/leaf.jpeg"
+  },
+  "src/lib/assets/photos/leafs and flower.jpg": {
+    "file": "_app/immutable/assets/leafs and flower.BFyy07bt.jpg",
+    "src": "src/lib/assets/photos/leafs and flower.jpg"
+  },
+  "src/lib/assets/photos/leafs.jpg": {
+    "file": "_app/immutable/assets/leafs.DaKXDN49.jpg",
+    "src": "src/lib/assets/photos/leafs.jpg"
+  },
+  "src/lib/assets/photos/lens.jpeg": {
+    "file": "_app/immutable/assets/lens.D2MVTukx.jpeg",
+    "src": "src/lib/assets/photos/lens.jpeg"
+  },
+  "src/lib/assets/photos/love birds.jpeg": {
+    "file": "_app/immutable/assets/love birds.fTMxvUhp.jpeg",
+    "src": "src/lib/assets/photos/love birds.jpeg"
+  },
+  "src/lib/assets/photos/october.jpeg": {
+    "file": "_app/immutable/assets/october._xaXEjq_.jpeg",
+    "src": "src/lib/assets/photos/october.jpeg"
+  },
+  "src/lib/assets/photos/orea.jpg": {
+    "file": "_app/immutable/assets/orea.BmcNcVZ4.jpg",
+    "src": "src/lib/assets/photos/orea.jpg"
+  },
+  "src/lib/assets/photos/pencil photography.jpeg": {
+    "file": "_app/immutable/assets/pencil photography.B53ixREJ.jpeg",
+    "src": "src/lib/assets/photos/pencil photography.jpeg"
+  },
+  "src/lib/assets/photos/pencils.jpeg": {
+    "file": "_app/immutable/assets/pencils.D_wJQST_.jpeg",
+    "src": "src/lib/assets/photos/pencils.jpeg"
+  },
+  "src/lib/assets/photos/rain drop.jpeg": {
+    "file": "_app/immutable/assets/rain drop.CCkGw1Tl.jpeg",
+    "src": "src/lib/assets/photos/rain drop.jpeg"
+  },
+  "src/lib/assets/photos/skyscraper mg road 2.jpg": {
+    "file": "_app/immutable/assets/skyscraper mg road 2.BZalzPLl.jpg",
+    "src": "src/lib/assets/photos/skyscraper mg road 2.jpg"
+  },
+  "src/lib/assets/photos/skyscraper mg road.jpg": {
+    "file": "_app/immutable/assets/skyscraper mg road.CctVR0-6.jpg",
+    "src": "src/lib/assets/photos/skyscraper mg road.jpg"
+  },
+  "src/lib/assets/photos/spider.jpg": {
+    "file": "_app/immutable/assets/spider.CNPpqJkY.jpg",
+    "src": "src/lib/assets/photos/spider.jpg"
+  },
+  "src/lib/assets/photos/stand apart.jpeg": {
+    "file": "_app/immutable/assets/stand apart.C6Rcf2N8.jpeg",
+    "src": "src/lib/assets/photos/stand apart.jpeg"
+  },
+  "src/lib/assets/photos/track.jpeg": {
+    "file": "_app/immutable/assets/track.uAUKYgjk.jpeg",
+    "src": "src/lib/assets/photos/track.jpeg"
+  },
+  "src/lib/assets/photos/tree,me and emptiness.jpg": {
+    "file": "_app/immutable/assets/tree_me and emptiness.CkOAP8ki.jpg",
+    "src": "src/lib/assets/photos/tree,me and emptiness.jpg"
+  },
+  "src/routes/+layout.svelte": {
+    "file": "entries/pages/_layout.svelte.js",
+    "name": "entries/pages/_layout.svelte",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout.CeUu-DUD.css"
+    ]
+  },
+  "src/routes/+page.svelte": {
+    "file": "entries/pages/_page.svelte.js",
+    "name": "entries/pages/_page.svelte",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_index.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.CFEYsqlH.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/launchpad.CgD6-Nla.png",
+      "_app/immutable/assets/terminal.0clKkOCv.avif",
+      "_app/immutable/assets/safari.BEygW2Sh.png",
+      "_app/immutable/assets/photos.8hGOpb6v.avif",
+      "_app/immutable/assets/projects.CAEO0KFT.png",
+      "_app/immutable/assets/github.CYmlC3Ue.png"
+    ]
+  },
+  "src/routes/+page.ts": {
+    "file": "entries/pages/_page.ts.js",
+    "name": "entries/pages/_page.ts",
+    "src": "src/routes/+page.ts",
+    "isEntry": true
+  }
+}

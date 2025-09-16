@@ -1,0 +1,434 @@
+{
+  ".svelte-kit/generated/client-optimized/app.js": {
+    "file": "_app/immutable/entry/app.SVi6yKDY.js",
+    "name": "entry/app",
+    "src": ".svelte-kit/generated/client-optimized/app.js",
+    "isEntry": true,
+    "imports": [
+      "_By0DpHKz.js",
+      "_IHki7fMi.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/generated/client-optimized/nodes/0.js",
+      ".svelte-kit/generated/client-optimized/nodes/1.js",
+      ".svelte-kit/generated/client-optimized/nodes/2.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.js": {
+    "file": "_app/immutable/nodes/0._jsTEPhh.js",
+    "name": "nodes/0",
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_By0DpHKz.js",
+      "_IHki7fMi.js"
+    ],
+    "css": [
+      "_app/immutable/assets/0.B5dpqRb_.css"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/1.js": {
+    "file": "_app/immutable/nodes/1.Dgj2LCO6.js",
+    "name": "nodes/1",
+    "src": ".svelte-kit/generated/client-optimized/nodes/1.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_By0DpHKz.js",
+      "_IHki7fMi.js",
+      "_Bo0QATe9.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.js": {
+    "file": "_app/immutable/nodes/2.CBiHUi5N.js",
+    "name": "nodes/2",
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_By0DpHKz.js",
+      "_IHki7fMi.js",
+      "_D04Ajr0W.js"
+    ],
+    "css": [
+      "_app/immutable/assets/2.BSenlx8n.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/dawnofchange.D7E3u3nr.png",
+      "_app/immutable/assets/echoofsadness.C4Wg4fk_.png",
+      "_app/immutable/assets/hearty.DhNvWyqg.png",
+      "_app/immutable/assets/hope.eSZ6iwO_.png",
+      "_app/immutable/assets/kammoji.9ivCmRCV.png",
+      "_app/immutable/assets/khoya.CUvFJeOs.png",
+      "_app/immutable/assets/moonlightdrive.BsETH0kd.png",
+      "_app/immutable/assets/prism.CTvAouOV.png",
+      "_app/immutable/assets/sleepless.CJjvWqQ3.png",
+      "_app/immutable/assets/slowlife.UMMC0CsC.png",
+      "_app/immutable/assets/softvibes.Bd0CCTNR.png",
+      "_app/immutable/assets/tu.Dn51XXi7.png",
+      "_app/immutable/assets/dawnofchange.CLJa9HhT.mp3",
+      "_app/immutable/assets/echoofsadness.DOuWjOXq.mp3",
+      "_app/immutable/assets/hearty.DkNdfH5i.mp3",
+      "_app/immutable/assets/hope.BCzxu_hW.mp3",
+      "_app/immutable/assets/kammoji.C8lAF0wb.mp3",
+      "_app/immutable/assets/moonlightdrive.D3-xGv-8.mp3",
+      "_app/immutable/assets/prism.BNNqz6D5.mp3",
+      "_app/immutable/assets/sleepless.BiSBayaf.mp3",
+      "_app/immutable/assets/slowlife.DrtBWYPD.mp3",
+      "_app/immutable/assets/softvibes.DExdXCMF.mp3",
+      "_app/immutable/assets/theinside.DDqUYEGH.mp3",
+      "_app/immutable/assets/launchpad.CgD6-Nla.png",
+      "_app/immutable/assets/terminal.0clKkOCv.avif",
+      "_app/immutable/assets/safari.BEygW2Sh.png",
+      "_app/immutable/assets/photos.8hGOpb6v.avif",
+      "_app/immutable/assets/projects.CAEO0KFT.png",
+      "_app/immutable/assets/github.CYmlC3Ue.png",
+      "_app/immutable/assets/A walk to remember.DmxIb_Yp.jpeg",
+      "_app/immutable/assets/Banaras .D6YbZ_U9.jpeg",
+      "_app/immutable/assets/Black and White.CqysbirF.jpeg",
+      "_app/immutable/assets/Candy Lens.CRrSRx5S.jpeg",
+      "_app/immutable/assets/Church.P3u_M6nM.jpeg",
+      "_app/immutable/assets/Dual Tone.BcLo0V8u.jpeg",
+      "_app/immutable/assets/Faith.g5N1Xd3M.jpeg",
+      "_app/immutable/assets/Golden.B3f4CHUm.jpeg",
+      "_app/immutable/assets/India.DgQWBc2S.jpeg",
+      "_app/immutable/assets/Mysore Palace.CxrpT12d.jpeg",
+      "_app/immutable/assets/Palace.DZ3y6-1p.jpeg",
+      "_app/immutable/assets/Rain Drops.ChheUtCX.jpg",
+      "_app/immutable/assets/St. Philomena's Cathedral.DZ-Kr7xj.jpeg",
+      "_app/immutable/assets/Sun.CIpXb_FJ.jpeg",
+      "_app/immutable/assets/bird.Ci9FzVvd.jpeg",
+      "_app/immutable/assets/camel.DPkGHtXn.jpeg",
+      "_app/immutable/assets/dope.046hn1Cd.jpeg",
+      "_app/immutable/assets/eysdontlie.Dx85Smro.jpg",
+      "_app/immutable/assets/flat.B1vdzpAs.jpeg",
+      "_app/immutable/assets/iconic reserved forest moment.CdF8ArQB.jpg",
+      "_app/immutable/assets/insect macro photo.DSIAsfWi.jpg",
+      "_app/immutable/assets/leaf.COJtXbiI.jpeg",
+      "_app/immutable/assets/leafs and flower.BFyy07bt.jpg",
+      "_app/immutable/assets/leafs.DaKXDN49.jpg",
+      "_app/immutable/assets/lens.D2MVTukx.jpeg",
+      "_app/immutable/assets/love birds.fTMxvUhp.jpeg",
+      "_app/immutable/assets/october._xaXEjq_.jpeg",
+      "_app/immutable/assets/orea.BmcNcVZ4.jpg",
+      "_app/immutable/assets/pencil photography.B53ixREJ.jpeg",
+      "_app/immutable/assets/pencils.D_wJQST_.jpeg",
+      "_app/immutable/assets/rain drop.CCkGw1Tl.jpeg",
+      "_app/immutable/assets/skyscraper mg road 2.BZalzPLl.jpg",
+      "_app/immutable/assets/skyscraper mg road.CctVR0-6.jpg",
+      "_app/immutable/assets/spider.CNPpqJkY.jpg",
+      "_app/immutable/assets/stand apart.C6Rcf2N8.jpeg",
+      "_app/immutable/assets/track.uAUKYgjk.jpeg",
+      "_app/immutable/assets/tree_me and emptiness.CkOAP8ki.jpg"
+    ]
+  },
+  "_Bo0QATe9.js": {
+    "file": "_app/immutable/chunks/Bo0QATe9.js",
+    "name": "entry",
+    "imports": [
+      "_By0DpHKz.js",
+      "_D04Ajr0W.js"
+    ]
+  },
+  "_By0DpHKz.js": {
+    "file": "_app/immutable/chunks/By0DpHKz.js",
+    "name": "Component"
+  },
+  "_D04Ajr0W.js": {
+    "file": "_app/immutable/chunks/D04Ajr0W.js",
+    "name": "index",
+    "imports": [
+      "_By0DpHKz.js"
+    ]
+  },
+  "_IHki7fMi.js": {
+    "file": "_app/immutable/chunks/IHki7fMi.js",
+    "name": "index"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/entry.js": {
+    "file": "_app/immutable/entry/start.Co5CkVZe.js",
+    "name": "entry/start",
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/entry.js",
+    "isEntry": true,
+    "imports": [
+      "_Bo0QATe9.js"
+    ]
+  },
+  "src/lib/assets/icons/blog.png": {
+    "file": "_app/immutable/assets/blog._jGFOdL8.png",
+    "src": "src/lib/assets/icons/blog.png"
+  },
+  "src/lib/assets/icons/clave.png": {
+    "file": "_app/immutable/assets/clave.D89drx8e.png",
+    "src": "src/lib/assets/icons/clave.png"
+  },
+  "src/lib/assets/icons/github.png": {
+    "file": "_app/immutable/assets/github.CYmlC3Ue.png",
+    "src": "src/lib/assets/icons/github.png"
+  },
+  "src/lib/assets/icons/launchpad.png": {
+    "file": "_app/immutable/assets/launchpad.CgD6-Nla.png",
+    "src": "src/lib/assets/icons/launchpad.png"
+  },
+  "src/lib/assets/icons/photos.avif": {
+    "file": "_app/immutable/assets/photos.8hGOpb6v.avif",
+    "src": "src/lib/assets/icons/photos.avif"
+  },
+  "src/lib/assets/icons/projects.png": {
+    "file": "_app/immutable/assets/projects.CAEO0KFT.png",
+    "src": "src/lib/assets/icons/projects.png"
+  },
+  "src/lib/assets/icons/safari.png": {
+    "file": "_app/immutable/assets/safari.BEygW2Sh.png",
+    "src": "src/lib/assets/icons/safari.png"
+  },
+  "src/lib/assets/icons/terminal.avif": {
+    "file": "_app/immutable/assets/terminal.0clKkOCv.avif",
+    "src": "src/lib/assets/icons/terminal.avif"
+  },
+  "src/lib/assets/images/dawnofchange.png": {
+    "file": "_app/immutable/assets/dawnofchange.D7E3u3nr.png",
+    "src": "src/lib/assets/images/dawnofchange.png"
+  },
+  "src/lib/assets/images/echoofsadness.png": {
+    "file": "_app/immutable/assets/echoofsadness.C4Wg4fk_.png",
+    "src": "src/lib/assets/images/echoofsadness.png"
+  },
+  "src/lib/assets/images/hearty.png": {
+    "file": "_app/immutable/assets/hearty.DhNvWyqg.png",
+    "src": "src/lib/assets/images/hearty.png"
+  },
+  "src/lib/assets/images/hope.png": {
+    "file": "_app/immutable/assets/hope.eSZ6iwO_.png",
+    "src": "src/lib/assets/images/hope.png"
+  },
+  "src/lib/assets/images/kammoji.png": {
+    "file": "_app/immutable/assets/kammoji.9ivCmRCV.png",
+    "src": "src/lib/assets/images/kammoji.png"
+  },
+  "src/lib/assets/images/khoya.png": {
+    "file": "_app/immutable/assets/khoya.CUvFJeOs.png",
+    "src": "src/lib/assets/images/khoya.png"
+  },
+  "src/lib/assets/images/moonlightdrive.png": {
+    "file": "_app/immutable/assets/moonlightdrive.BsETH0kd.png",
+    "src": "src/lib/assets/images/moonlightdrive.png"
+  },
+  "src/lib/assets/images/prism.png": {
+    "file": "_app/immutable/assets/prism.CTvAouOV.png",
+    "src": "src/lib/assets/images/prism.png"
+  },
+  "src/lib/assets/images/sleepless.png": {
+    "file": "_app/immutable/assets/sleepless.CJjvWqQ3.png",
+    "src": "src/lib/assets/images/sleepless.png"
+  },
+  "src/lib/assets/images/slowlife.png": {
+    "file": "_app/immutable/assets/slowlife.UMMC0CsC.png",
+    "src": "src/lib/assets/images/slowlife.png"
+  },
+  "src/lib/assets/images/softvibes.png": {
+    "file": "_app/immutable/assets/softvibes.Bd0CCTNR.png",
+    "src": "src/lib/assets/images/softvibes.png"
+  },
+  "src/lib/assets/images/theinside.png": {
+    "file": "_app/immutable/assets/slowlife.UMMC0CsC.png",
+    "src": "src/lib/assets/images/slowlife.png"
+  },
+  "src/lib/assets/images/tu.png": {
+    "file": "_app/immutable/assets/tu.Dn51XXi7.png",
+    "src": "src/lib/assets/images/tu.png"
+  },
+  "src/lib/assets/mp3s/dawnofchange.mp3": {
+    "file": "_app/immutable/assets/dawnofchange.CLJa9HhT.mp3",
+    "src": "src/lib/assets/mp3s/dawnofchange.mp3"
+  },
+  "src/lib/assets/mp3s/echoofsadness.mp3": {
+    "file": "_app/immutable/assets/echoofsadness.DOuWjOXq.mp3",
+    "src": "src/lib/assets/mp3s/echoofsadness.mp3"
+  },
+  "src/lib/assets/mp3s/hearty.mp3": {
+    "file": "_app/immutable/assets/hearty.DkNdfH5i.mp3",
+    "src": "src/lib/assets/mp3s/hearty.mp3"
+  },
+  "src/lib/assets/mp3s/hope.mp3": {
+    "file": "_app/immutable/assets/hope.BCzxu_hW.mp3",
+    "src": "src/lib/assets/mp3s/hope.mp3"
+  },
+  "src/lib/assets/mp3s/kammoji.mp3": {
+    "file": "_app/immutable/assets/kammoji.C8lAF0wb.mp3",
+    "src": "src/lib/assets/mp3s/kammoji.mp3"
+  },
+  "src/lib/assets/mp3s/moonlightdrive.mp3": {
+    "file": "_app/immutable/assets/moonlightdrive.D3-xGv-8.mp3",
+    "src": "src/lib/assets/mp3s/moonlightdrive.mp3"
+  },
+  "src/lib/assets/mp3s/prism.mp3": {
+    "file": "_app/immutable/assets/prism.BNNqz6D5.mp3",
+    "src": "src/lib/assets/mp3s/prism.mp3"
+  },
+  "src/lib/assets/mp3s/sleepless.mp3": {
+    "file": "_app/immutable/assets/sleepless.BiSBayaf.mp3",
+    "src": "src/lib/assets/mp3s/sleepless.mp3"
+  },
+  "src/lib/assets/mp3s/slowlife.mp3": {
+    "file": "_app/immutable/assets/slowlife.DrtBWYPD.mp3",
+    "src": "src/lib/assets/mp3s/slowlife.mp3"
+  },
+  "src/lib/assets/mp3s/softvibes.mp3": {
+    "file": "_app/immutable/assets/softvibes.DExdXCMF.mp3",
+    "src": "src/lib/assets/mp3s/softvibes.mp3"
+  },
+  "src/lib/assets/mp3s/theinside.mp3": {
+    "file": "_app/immutable/assets/theinside.DDqUYEGH.mp3",
+    "src": "src/lib/assets/mp3s/theinside.mp3"
+  },
+  "src/lib/assets/photos/A walk to remember.jpeg": {
+    "file": "_app/immutable/assets/A walk to remember.DmxIb_Yp.jpeg",
+    "src": "src/lib/assets/photos/A walk to remember.jpeg"
+  },
+  "src/lib/assets/photos/Banaras .jpeg": {
+    "file": "_app/immutable/assets/Banaras .D6YbZ_U9.jpeg",
+    "src": "src/lib/assets/photos/Banaras .jpeg"
+  },
+  "src/lib/assets/photos/Black and White.jpeg": {
+    "file": "_app/immutable/assets/Black and White.CqysbirF.jpeg",
+    "src": "src/lib/assets/photos/Black and White.jpeg"
+  },
+  "src/lib/assets/photos/Candy Lens.jpeg": {
+    "file": "_app/immutable/assets/Candy Lens.CRrSRx5S.jpeg",
+    "src": "src/lib/assets/photos/Candy Lens.jpeg"
+  },
+  "src/lib/assets/photos/Church.jpeg": {
+    "file": "_app/immutable/assets/Church.P3u_M6nM.jpeg",
+    "src": "src/lib/assets/photos/Church.jpeg"
+  },
+  "src/lib/assets/photos/Dual Tone.jpeg": {
+    "file": "_app/immutable/assets/Dual Tone.BcLo0V8u.jpeg",
+    "src": "src/lib/assets/photos/Dual Tone.jpeg"
+  },
+  "src/lib/assets/photos/Faith.jpeg": {
+    "file": "_app/immutable/assets/Faith.g5N1Xd3M.jpeg",
+    "src": "src/lib/assets/photos/Faith.jpeg"
+  },
+  "src/lib/assets/photos/Golden.jpeg": {
+    "file": "_app/immutable/assets/Golden.B3f4CHUm.jpeg",
+    "src": "src/lib/assets/photos/Golden.jpeg"
+  },
+  "src/lib/assets/photos/India.jpeg": {
+    "file": "_app/immutable/assets/India.DgQWBc2S.jpeg",
+    "src": "src/lib/assets/photos/India.jpeg"
+  },
+  "src/lib/assets/photos/Mysore Palace.jpeg": {
+    "file": "_app/immutable/assets/Mysore Palace.CxrpT12d.jpeg",
+    "src": "src/lib/assets/photos/Mysore Palace.jpeg"
+  },
+  "src/lib/assets/photos/Palace.jpeg": {
+    "file": "_app/immutable/assets/Palace.DZ3y6-1p.jpeg",
+    "src": "src/lib/assets/photos/Palace.jpeg"
+  },
+  "src/lib/assets/photos/Rain Drops.jpg": {
+    "file": "_app/immutable/assets/Rain Drops.ChheUtCX.jpg",
+    "src": "src/lib/assets/photos/Rain Drops.jpg"
+  },
+  "src/lib/assets/photos/St. Philomena's Cathedral.jpeg": {
+    "file": "_app/immutable/assets/St. Philomena's Cathedral.DZ-Kr7xj.jpeg",
+    "src": "src/lib/assets/photos/St. Philomena's Cathedral.jpeg"
+  },
+  "src/lib/assets/photos/Sun.jpeg": {
+    "file": "_app/immutable/assets/Sun.CIpXb_FJ.jpeg",
+    "src": "src/lib/assets/photos/Sun.jpeg"
+  },
+  "src/lib/assets/photos/bird.jpeg": {
+    "file": "_app/immutable/assets/bird.Ci9FzVvd.jpeg",
+    "src": "src/lib/assets/photos/bird.jpeg"
+  },
+  "src/lib/assets/photos/camel.jpeg": {
+    "file": "_app/immutable/assets/camel.DPkGHtXn.jpeg",
+    "src": "src/lib/assets/photos/camel.jpeg"
+  },
+  "src/lib/assets/photos/dope.jpeg": {
+    "file": "_app/immutable/assets/dope.046hn1Cd.jpeg",
+    "src": "src/lib/assets/photos/dope.jpeg"
+  },
+  "src/lib/assets/photos/eysdontlie.jpg": {
+    "file": "_app/immutable/assets/eysdontlie.Dx85Smro.jpg",
+    "src": "src/lib/assets/photos/eysdontlie.jpg"
+  },
+  "src/lib/assets/photos/flat.jpeg": {
+    "file": "_app/immutable/assets/flat.B1vdzpAs.jpeg",
+    "src": "src/lib/assets/photos/flat.jpeg"
+  },
+  "src/lib/assets/photos/iconic reserved forest moment.jpg": {
+    "file": "_app/immutable/assets/iconic reserved forest moment.CdF8ArQB.jpg",
+    "src": "src/lib/assets/photos/iconic reserved forest moment.jpg"
+  },
+  "src/lib/assets/photos/insect macro photo.jpg": {
+    "file": "_app/immutable/assets/insect macro photo.DSIAsfWi.jpg",
+    "src": "src/lib/assets/photos/insect macro photo.jpg"
+  },
+  "src/lib/assets/photos/leaf.jpeg": {
+    "file": "_app/immutable/assets/leaf.COJtXbiI.jpeg",
+    "src": "src/lib/assets/photos/leaf.jpeg"
+  },
+  "src/lib/assets/photos/leafs and flower.jpg": {
+    "file": "_app/immutable/assets/leafs and flower.BFyy07bt.jpg",
+    "src": "src/lib/assets/photos/leafs and flower.jpg"
+  },
+  "src/lib/assets/photos/leafs.jpg": {
+    "file": "_app/immutable/assets/leafs.DaKXDN49.jpg",
+    "src": "src/lib/assets/photos/leafs.jpg"
+  },
+  "src/lib/assets/photos/lens.jpeg": {
+    "file": "_app/immutable/assets/lens.D2MVTukx.jpeg",
+    "src": "src/lib/assets/photos/lens.jpeg"
+  },
+  "src/lib/assets/photos/love birds.jpeg": {
+    "file": "_app/immutable/assets/love birds.fTMxvUhp.jpeg",
+    "src": "src/lib/assets/photos/love birds.jpeg"
+  },
+  "src/lib/assets/photos/october.jpeg": {
+    "file": "_app/immutable/assets/october._xaXEjq_.jpeg",
+    "src": "src/lib/assets/photos/october.jpeg"
+  },
+  "src/lib/assets/photos/orea.jpg": {
+    "file": "_app/immutable/assets/orea.BmcNcVZ4.jpg",
+    "src": "src/lib/assets/photos/orea.jpg"
+  },
+  "src/lib/assets/photos/pencil photography.jpeg": {
+    "file": "_app/immutable/assets/pencil photography.B53ixREJ.jpeg",
+    "src": "src/lib/assets/photos/pencil photography.jpeg"
+  },
+  "src/lib/assets/photos/pencils.jpeg": {
+    "file": "_app/immutable/assets/pencils.D_wJQST_.jpeg",
+    "src": "src/lib/assets/photos/pencils.jpeg"
+  },
+  "src/lib/assets/photos/rain drop.jpeg": {
+    "file": "_app/immutable/assets/rain drop.CCkGw1Tl.jpeg",
+    "src": "src/lib/assets/photos/rain drop.jpeg"
+  },
+  "src/lib/assets/photos/skyscraper mg road 2.jpg": {
+    "file": "_app/immutable/assets/skyscraper mg road 2.BZalzPLl.jpg",
+    "src": "src/lib/assets/photos/skyscraper mg road 2.jpg"
+  },
+  "src/lib/assets/photos/skyscraper mg road.jpg": {
+    "file": "_app/immutable/assets/skyscraper mg road.CctVR0-6.jpg",
+    "src": "src/lib/assets/photos/skyscraper mg road.jpg"
+  },
+  "src/lib/assets/photos/spider.jpg": {
+    "file": "_app/immutable/assets/spider.CNPpqJkY.jpg",
+    "src": "src/lib/assets/photos/spider.jpg"
+  },
+  "src/lib/assets/photos/stand apart.jpeg": {
+    "file": "_app/immutable/assets/stand apart.C6Rcf2N8.jpeg",
+    "src": "src/lib/assets/photos/stand apart.jpeg"
+  },
+  "src/lib/assets/photos/track.jpeg": {
+    "file": "_app/immutable/assets/track.uAUKYgjk.jpeg",
+    "src": "src/lib/assets/photos/track.jpeg"
+  },
+  "src/lib/assets/photos/tree,me and emptiness.jpg": {
+    "file": "_app/immutable/assets/tree_me and emptiness.CkOAP8ki.jpg",
+    "src": "src/lib/assets/photos/tree,me and emptiness.jpg"
+  }
+}
