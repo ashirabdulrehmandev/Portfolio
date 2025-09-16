@@ -51,6 +51,7 @@ declare module '$env/static/private' {
 	export const NVM_INC: string;
 	export const XDG_DATA_HOME_VSCODE_SNAP_ORIG: string;
 	export const GTK_IM_MODULE_FILE: string;
+	export const GIO_LAUNCHED_DESKTOP_FILE: string;
 	export const HOMEBREW_PREFIX: string;
 	export const GTK_MODULES: string;
 	export const GSETTINGS_SCHEMA_DIR_VSCODE_SNAP_ORIG: string;
@@ -63,6 +64,7 @@ declare module '$env/static/private' {
 	export const GSM_SKIP_SSH_AGENT_WORKAROUND: string;
 	export const DBUS_SESSION_BUS_ADDRESS: string;
 	export const COLORTERM: string;
+	export const GIO_LAUNCHED_DESKTOP_FILE_PID: string;
 	export const COLOR: string;
 	export const NVM_DIR: string;
 	export const DEBUGINFOD_URLS: string;
@@ -89,6 +91,7 @@ declare module '$env/static/private' {
 	export const NODE: string;
 	export const npm_package_name: string;
 	export const LC_ADDRESS: string;
+	export const BAMF_DESKTOP_FILE_HINT: string;
 	export const XDG_RUNTIME_DIR: string;
 	export const GDK_BACKEND: string;
 	export const DISPLAY: string;
@@ -195,6 +198,7 @@ declare module '$env/dynamic/private' {
 		NVM_INC: string;
 		XDG_DATA_HOME_VSCODE_SNAP_ORIG: string;
 		GTK_IM_MODULE_FILE: string;
+		GIO_LAUNCHED_DESKTOP_FILE: string;
 		HOMEBREW_PREFIX: string;
 		GTK_MODULES: string;
 		GSETTINGS_SCHEMA_DIR_VSCODE_SNAP_ORIG: string;
@@ -207,6 +211,7 @@ declare module '$env/dynamic/private' {
 		GSM_SKIP_SSH_AGENT_WORKAROUND: string;
 		DBUS_SESSION_BUS_ADDRESS: string;
 		COLORTERM: string;
+		GIO_LAUNCHED_DESKTOP_FILE_PID: string;
 		COLOR: string;
 		NVM_DIR: string;
 		DEBUGINFOD_URLS: string;
@@ -233,6 +238,7 @@ declare module '$env/dynamic/private' {
 		NODE: string;
 		npm_package_name: string;
 		LC_ADDRESS: string;
+		BAMF_DESKTOP_FILE_HINT: string;
 		XDG_RUNTIME_DIR: string;
 		GDK_BACKEND: string;
 		DISPLAY: string;
