@@ -415,8 +415,8 @@ const initialProjects = [
     name: "Music Player",
     icon: "react",
     shortDescription: "An interactive and functional Music PLayer , built with React and Sass.",
-    githubUrl: "https://github.com/ashirabdulrehmandev/macOS-Themed-Portfolio",
-    readmeUrl: "https://raw.githubusercontent.com/ashirabdulrehman/macOS-Themed-Portfolio/main/README.md",
+    githubUrl: "https://github.com/ashirabdulrehmandev/spotify-clone",
+    readmeUrl: "https://raw.githubusercontent.com/ashirabdulrehmandev/spotify-clone/refs/heads/main/README.md",
     technologies: ["React", "Sass"],
     type: "application"
   }
