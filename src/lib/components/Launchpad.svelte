@@ -66,7 +66,7 @@
               out:scale={{duration: 200}}
             >
               <img src={app.icon} alt={app.name} class="w-20 h-20 mb-2 object-contain" />
-              <span class="text-white text-sm text-center font-light">{app.name}</span>
+              <span class="text-white select-none text-sm text-center font-light">{app.name}</span>
             </div>
           {/each}
         {:else}
