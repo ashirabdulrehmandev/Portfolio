@@ -13,6 +13,10 @@
     "file": "chunks/environment.js",
     "name": "environment"
   },
+  "_escape.js": {
+    "file": "chunks/escape.js",
+    "name": "escape"
+  },
   "_exports.js": {
     "file": "chunks/exports.js",
     "name": "exports"
@@ -71,7 +75,8 @@
       "_ssr.js",
       "_exports.js",
       "_utils.js",
-      "_ssr2.js"
+      "_ssr2.js",
+      "_escape.js"
     ]
   },
   "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
@@ -281,7 +286,7 @@
       "_ssr.js"
     ],
     "css": [
-      "_app/immutable/assets/_layout.BL3JnJOL.css"
+      "_app/immutable/assets/_layout.s40CmGU4.css"
     ]
   },
   "src/routes/+page.svelte": {
@@ -291,18 +296,13 @@
     "isEntry": true,
     "imports": [
       "_ssr.js",
-      "_index.js"
+      "_index.js",
+      "_escape.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.Dt9fQBct.css"
+      "_app/immutable/assets/_page.CNCaxrFf.css"
     ],
     "assets": [
-      "_app/immutable/assets/launchpad.CgD6-Nla.png",
-      "_app/immutable/assets/terminal.0clKkOCv.avif",
-      "_app/immutable/assets/safari.BEygW2Sh.png",
-      "_app/immutable/assets/photos.8hGOpb6v.avif",
-      "_app/immutable/assets/projects.CAEO0KFT.png",
-      "_app/immutable/assets/github.CYmlC3Ue.png",
       "_app/immutable/assets/bg.BC_5ckuz.jpg"
     ]
   },

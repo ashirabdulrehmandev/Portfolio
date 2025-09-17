@@ -1,8 +1,9 @@
-import { g as getContext, c as create_ssr_component, a as subscribe, e as escape } from "../../chunks/ssr.js";
+import { g as getContext, c as create_ssr_component, a as subscribe } from "../../chunks/ssr.js";
 import "@sveltejs/kit/internal";
 import "../../chunks/exports.js";
 import "../../chunks/utils.js";
 import { o as onMount } from "../../chunks/ssr2.js";
+import { e as escape } from "../../chunks/escape.js";
 const is_legacy = onMount.toString().includes("$$") || /function \w+\(\) \{\}/.test(onMount.toString());
 if (is_legacy) {
   ({
