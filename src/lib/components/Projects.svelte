@@ -69,7 +69,7 @@
         </svg>
       </button>
     </div>
-    <div class="flex-grow text-center font-semibold">Projects</div>
+    <div class="flex-grow text-center select-none font-semibold">Projects</div>
   </div>
 
   <div class="flex-grow flex overflow-hidden">

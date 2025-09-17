@@ -29,7 +29,7 @@
 </script>
 
 <main class="min-h-screen font-mono relative overflow-hidden">
-  <div class="absolute inset-0 bg-gradient-to-br from-purple-900 via-blue-900 to-teal-800 opacity-80"></div>
+  <div class="absolute inset-0" id="background"></div>
   
   <Desktop />
   
@@ -46,5 +46,11 @@
   :global(body) {
     margin: 0;
     padding: 0;
+  }
+  #background{
+    background-image: url('/src/lib/assets/images/bg.jpg');
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
   }
 </style>

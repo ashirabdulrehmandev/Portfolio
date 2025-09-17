@@ -23,15 +23,15 @@
     <div
       class="bg-white/10 backdrop-blur-md rounded-xl p-6 text-white w-full max-w-md mb-4 shadow-lg"
     >
-      <div class="flex flex-col items-center">
-        <div class="text-6xl font-light mb-2">
+      <div class="flex flex-col select-none items-center">
+        <div class="text-6xl select-none font-light mb-2">
           {currentTime.toLocaleTimeString("en-US", {
             hour: "2-digit",
             minute: "2-digit",
             hour12: true,
           })}
         </div>
-        <div class="text-lg font-medium">
+        <div class="text-lg select-none font-medium">
           {currentTime.toLocaleDateString("en-US", {
             weekday: "long",
             month: "long",

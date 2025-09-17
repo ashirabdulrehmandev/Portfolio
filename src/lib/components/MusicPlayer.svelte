@@ -243,7 +243,7 @@
 <div
   class="bg-white/10 backdrop-blur-md rounded-xl p-6 pb-8 text-white w-full max-w-md"
 >
-  <div class="flex justify-between items-center mb-4">
+  <div class="flex select-none justify-between items-center mb-4">
     <h2 class="text-xl font-semibold">Now Playing</h2>
     <div class="flex items-center space-x-2">
       <div class="relative">
@@ -301,9 +301,9 @@
       />
     </div>
     <div class="flex-1 min-w-0 text-center md:text-left">
-      <p class="font-bold text-lg truncate">{currentSong.name}</p>
-      <p class="text-sm text-gray-300 truncate">{currentSong.artist}</p>
-      <span class="inline-block bg-blue-500 text-xs font-semibold px-2 py-1 rounded-full mt-1">{currentSong.genre}</span>
+      <p class="font-bold select-none text-lg truncate">{currentSong.name}</p>
+      <p class="text-sm select-none text-gray-300 truncate">{currentSong.artist}</p>
+      <span class="inline-block select-none bg-blue-500 text-xs font-semibold px-2 py-1 rounded-full mt-1">{currentSong.genre}</span>
     </div>
   </div>
 

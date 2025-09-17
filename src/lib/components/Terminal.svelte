@@ -223,7 +223,7 @@
         on:click={() => toggleMaximize(window.id)}
       ></div>
     </div>
-    <div class="flex-grow text-center text-sm text-gray-400">
+    <div class="flex-grow select-none text-center text-sm text-gray-400">
       ashir@macbook: ~/{currentDirectory.join("/")}
     </div>
   </div>

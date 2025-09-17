@@ -120,6 +120,10 @@
     "file": "_app/immutable/assets/terminal.0clKkOCv.avif",
     "src": "src/lib/assets/icons/terminal.avif"
   },
+  "src/lib/assets/images/bg.jpg": {
+    "file": "_app/immutable/assets/bg.BC_5ckuz.jpg",
+    "src": "src/lib/assets/images/bg.jpg"
+  },
   "src/lib/assets/photos/A walk to remember.jpeg": {
     "file": "_app/immutable/assets/A walk to remember.DmxIb_Yp.jpeg",
     "src": "src/lib/assets/photos/A walk to remember.jpeg"
@@ -277,7 +281,7 @@
       "_ssr.js"
     ],
     "css": [
-      "_app/immutable/assets/_layout.CeUu-DUD.css"
+      "_app/immutable/assets/_layout.BL3JnJOL.css"
     ]
   },
   "src/routes/+page.svelte": {
@@ -290,7 +294,7 @@
       "_index.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.CFEYsqlH.css"
+      "_app/immutable/assets/_page.Dt9fQBct.css"
     ],
     "assets": [
       "_app/immutable/assets/launchpad.CgD6-Nla.png",
@@ -298,7 +302,8 @@
       "_app/immutable/assets/safari.BEygW2Sh.png",
       "_app/immutable/assets/photos.8hGOpb6v.avif",
       "_app/immutable/assets/projects.CAEO0KFT.png",
-      "_app/immutable/assets/github.CYmlC3Ue.png"
+      "_app/immutable/assets/github.CYmlC3Ue.png",
+      "_app/immutable/assets/bg.BC_5ckuz.jpg"
     ]
   },
   "src/routes/+page.ts": {
