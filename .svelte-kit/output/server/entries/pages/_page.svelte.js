@@ -401,16 +401,6 @@ const initialProjects = [
     type: "application"
   },
   {
-    id: "Ecomerece Website",
-    name: "Ecomerece Website",
-    icon: "nextjs",
-    shortDescription: "An interactive Ecomerece website , built with NextJs, Sass, and MongoDB.",
-    githubUrl: "https://github.com/ashirabdulrehmandev/macOS-Themed-Portfolio",
-    readmeUrl: "https://raw.githubusercontent.com/ashirabdulrehman/macOS-Themed-Portfolio/main/README.md",
-    technologies: ["NextJs", "Sass", "MongoDB"],
-    type: "application"
-  },
-  {
     id: "Music Player",
     name: "Music Player",
     icon: "react",
