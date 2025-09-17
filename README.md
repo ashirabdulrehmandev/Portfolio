@@ -37,9 +37,6 @@ This project is a personal portfolio website that mimics the look and feel of ma
 - Terminal
   - Interactive command-line interface
   - Supports basic Linux commands
-- Blog Viewer
-  - Connected to Dev.to
-  - Read articles directly in the window
 - Project Showcase
   - Live GitHub repository integration
 - Photo Gallery
@@ -51,7 +48,7 @@ This project is a personal portfolio website that mimics the look and feel of ma
 
 Clone the repo:
    ```bash
-   git clone https://github.com/ashir/macOS-Themed-Portfolio/
+   git clone https://github.com/ashirabdulrehmandev/Portfolio.git
    ```
 
 Install dependencies:
@@ -69,10 +66,6 @@ Build for production:
    npm run build
    ```
 
-To make the dev.to article work,update API Key in the .env file
-   ```bash
-   DEV_TO_API_KEY=<YOUR_API_KEY>
-   ```
 ## Contributing
 
 Contributions are what make the open-source community an incredible space for learning, inspiration, and creativity. Any contribution you make is deeply appreciated.
@@ -82,13 +75,6 @@ Contributions are what make the open-source community an incredible space for le
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## Donations
-
-If you find this content useful, please consider donating to support its development and future improvements.
-
-<a href="https://buymeacoffee.com/ansxuman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 
 
 ## License
